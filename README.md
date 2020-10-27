@@ -12,7 +12,7 @@ Note: filaments and prominences are the same physical feature but are geometrica
 We trained a the model trained for 5 epochs and a learning rate of η=0.0001 that reaches an training set accuracy of 99.95% and validation set accuracy of 100%.
 
 ## Requirements
-**Lbraries**
+**Libraries**
 - TensorFlow
 - Keras
 - Python 3+
