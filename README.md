@@ -9,7 +9,7 @@ The images in the dataset, were taken from Hinode/Solar Optical Telescope (SOT) 
 
 Note: filaments and prominences are the same physical feature but are geometrically different so are treated as different classes here.
 
-We trained a the model trained for 5 epochs and a learning rate of η=0.0001 that reaches an training set accuracy of 99.95% and validation set accuracy of 100%.
+The model was trained for 5 epochs and a learning rate of η=0.0001 that reaches an training set accuracy of 99.95% and validation set accuracy of 100%.
 
 ## Requirements
 **Libraries**
