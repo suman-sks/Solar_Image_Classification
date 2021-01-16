@@ -27,6 +27,6 @@ The model was trained for 5 epochs and a learning rate of η=0.0001 that reaches
 - 12 GB RAM(Minimum)
 - Nvidia GPU
 
-
+**Read Full Report here:**  [Solar_Image_Classification Report](https://docs.google.com/document/d/1j9nONwjVCHmhqxhF3MJ4Xo07Y-3_cYqrDZ8ldUbyF9A/edit?usp=sharing)
 ## Reference
 ["Fast Solar Image Classification Using Deep Learning and its Importance for Automation in Solar Physics](https://link.springer.com/article/10.1007/s11207-019-1473-z)", J.A. Armstrong and L. Fletcher, Solar Physics, vol. 294:80, (2019).
